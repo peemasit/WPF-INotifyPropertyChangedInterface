@@ -1,0 +1,15 @@
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\bin\Debug\WPF-INotifyPropertyChangedInterface.exe.config
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\bin\Debug\WPF-INotifyPropertyChangedInterface.exe
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\bin\Debug\WPF-INotifyPropertyChangedInterface.pdb
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\MainWindow.g.cs
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\App.g.cs
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface_MarkupCompile.cache
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface_MarkupCompile.lref
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\MainWindow.baml
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface.g.resources
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF_INotifyPropertyChangedInterface.Properties.Resources.resources
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface.csproj.GenerateResource.cache
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface.exe
+C:\Users\peema\source\repos\WPF-INotifyPropertyChangedInterface\WPF-INotifyPropertyChangedInterface\obj\Debug\WPF-INotifyPropertyChangedInterface.pdb
